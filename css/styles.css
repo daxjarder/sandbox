@@ -1,6 +1,7 @@
 html, body {
   background-color: #ffffff!important;
   overflow: hidden;
+  height: 100%;
 }
 
 .spacer {
@@ -8,9 +9,14 @@ html, body {
   background-color: #cccccc;
 }
 
+.desktop {
+  height: 100%;
+}
+
 .window {
   margin: 0 auto 0 auto;
   padding: 30px;
+  height: 100%
   background-color: #ffffff;
   padding-bottom:60px;
   overflow: auto;
