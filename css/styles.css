@@ -33,7 +33,7 @@ html, body {
 }
 
 .bottom {
-  position: absolute;
+  position: fixed;
   bottom: 0px;
   height: 60px;
   clear:both;
