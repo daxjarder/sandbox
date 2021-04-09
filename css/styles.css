@@ -17,7 +17,7 @@ html, body {
 }
 
 .dax-img {
-  position: absolute;
+  position: fixed;
   bottom: 60px;
   right: -60px;
 }
