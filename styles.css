@@ -1,0 +1,50 @@
+html, body {
+  background-color: #ffffff!important;
+  height: 100%;
+}
+
+.topper {
+  z-index: 100;
+}
+
+.spacer {
+  height: 1px;
+  background-color: #cccccc;
+}
+
+.desktop {
+  margin: 0;
+  position: relative;
+}
+
+.window {
+  margin: 0 auto 0 auto;
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+.dax-img {
+  position: absolute;
+  bottom: 60px;
+  right: -60px;
+}
+
+.dax-text {
+  position: absolute;
+  bottom: 350px;
+  right: 30px;
+  font-size: 180%;
+  font-family: 'Rock Salt', cursive;
+  z-index: 5;
+}
+
+.bottom {
+  height: 60px;
+}
+
+.copyright {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  font-size: 0.75rem;
+}
