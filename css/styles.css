@@ -4,6 +4,10 @@ html, body {
   height: 100%;
 }
 
+.topper {
+  z-index: 800 !important;
+}
+
 .spacer {
   height: 1px;
   background-color: #cccccc;
