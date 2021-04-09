@@ -9,15 +9,12 @@ html, body {
   background-color: #cccccc;
 }
 
-.desktop {
-  margin: 0;
-  position: relative;
-}
-
 .window {
   margin: 0 auto 0 auto;
   padding: 30px;
   background-color: #ffffff;
+  overflow:auto;
+  padding-bottom:60px;
 }
 
 .dax-img {
