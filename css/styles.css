@@ -4,10 +4,6 @@ html, body {
   overflow: hidden;
 }
 
-.topper {
-  z-index: 100;
-}
-
 .spacer {
   height: 1px;
   background-color: #cccccc;
