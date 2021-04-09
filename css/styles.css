@@ -33,11 +33,10 @@ html, body {
 }
 
 .bottom {
-  position: relative;
-  margin-top: -60px; /* negative value of footer height */
+  position: absolute;
+  bottom: 0px;
   height: 60px;
   clear:both;
-  padding-top:20px;
 }
 
 .copyright {
